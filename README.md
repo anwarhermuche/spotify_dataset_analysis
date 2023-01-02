@@ -27,7 +27,7 @@ Olhando para a média da popularidade, lo-fi possui a melhor pontuação. Porém
 
 2. A popularidade do artista está positivamente correlacionada com a popularidade de uma música?
 
-<img src="https://i.ibb.co/7vXT3td/Screenshot-20.png">
+<img src="https://i.ibb.co/k64S8S7/Screenshot-22.png">
 
 Parece que os dados estão positivamente correlacionados. Porém, não podemos assumir isso ainda. Vamos fazer outros gráficos para confirmar nossa premissa.
 
