@@ -14,7 +14,7 @@ Vamos responder as perguntas.
 
 1. Qual é o gênero mais popular?
 
-<img src="https://i.ibb.co/g62fTFq/Screenshot-17.png">
+<img src="https://i.ibb.co/wchwDnc/foto-perfil.jpg">
 <img src="https://i.ibb.co/hBb9V7c/Screenshot-18.png">
 
 Como podemos ver, Pop é, de longe, o gênero mais popular do Spotify. Porém, estamos considerando o número de ocorrências de cada palavra-chave na lista de gêneros que a música é classificada.
